@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">现代化应用</string>
+    <string name="hello2025.2">Hello!</string>
+    <string name="hello_2025_2">hello 2025.2!</string>
+    
+    <!-- 界面文本 -->
+    <string name="welcome_title">欢迎使用</string>
+    <string name="welcome_subtitle">现代化移动应用体验</string>
+    <string name="main_feature">主要功能</string>
+    <string name="quick_action">快速操作</string>
+    
+    <!-- 按钮文本 -->
+    <string name="get_started">开始使用</string>
+    <string name="learn_more">了解更多</string>
+    <string name="settings">设置</string>
+    <string name="profile">个人资料</string>
+    <string name="notifications">通知</string>
+    <string name="help">帮助</string>
+    
+    <!-- 功能卡片 -->
+    <string name="feature_1_title">数据分析</string>
+    <string name="feature_1_desc">实时数据监控和分析</string>
+    <string name="feature_2_title">智能推荐</string>
+    <string name="feature_2_desc">个性化内容推荐</string>
+    <string name="feature_3_title">云同步</string>
+    <string name="feature_3_desc">多设备数据同步</string>
+    <string name="feature_4_title">安全保护</string>
+    <string name="feature_4_desc">企业级安全保障</string>
+
+    <!-- 个人资料页面 -->
+    <string name="profile_name">张三</string>
+    <string name="profile_email">zhangsan@example.com</string>
+    <string name="profile_edit">编辑资料</string>
+    <string name="profile_advanced_settings">高级设置</string>
+    <string name="profile_logout">退出登录</string>
+    <string name="profile_activity_title">个人资料</string>
+</resources>
